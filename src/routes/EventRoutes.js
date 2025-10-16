@@ -1,5 +1,5 @@
 import express from "express";
-import { cancelRegistration, createEvent, getEvents, getEventStats, listUpcomingEvents, registerEvent } from "../controllers/event.controller.js";
+import { cancelRegistration, createEvent, getEvents, getEventStats, listUpcomingEvents, registerEvent } from "../controllers/eventcontroller.js";
 
 
 

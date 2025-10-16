@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
-import eventrouter from './routes/Event.Routes.js';
-import userrouter from './routes/user.Routes.js';
+import eventrouter from './routes/EventRoutes.js';
+import userrouter from './routes/UserRoutes.js';
 
 
 const app = express();

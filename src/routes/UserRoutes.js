@@ -1,5 +1,5 @@
 import express from "express";
-import { createUser, getUserById, listUsers } from "../controllers/user.controller.js";
+import { createUser, getUserById, listUsers } from "../controllers/usercontroller.js";
 
 
 
