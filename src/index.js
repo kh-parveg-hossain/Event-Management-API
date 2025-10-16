@@ -9,7 +9,7 @@ const options = {
     info: {
       title: "My API",
       version: "1.0.0",
-      description: "Auto-generated Swagger documentation",
+      description: "Event API",
     },
   },
   apis: ["./src/routes/*.js"], // route files with JSDoc comments
