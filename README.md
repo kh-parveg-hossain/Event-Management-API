@@ -17,6 +17,8 @@ event-management-api
 event-management-api/
 ├─ prisma
 ├─ src/
+│  ├─ config/
+│  │  ├─ config.js
 │  ├─ controllers/
 │  │  ├─ eventController.js
 │  │  └─ userController.js
@@ -25,8 +27,9 @@ event-management-api/
 │  │  └─ userRoutes.js
 │  ├─ utils/
 │  │  └─ validators.js
-│  │  └─ index.js
+│  │  └─ db.js
 │  └─ app.js
+│  └─ index.js
 ├─ .env
 ├─ package.json
 └─ README.md
